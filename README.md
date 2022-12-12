@@ -23,7 +23,7 @@ se requiere de conocimientos basicos de CSS, HTML ademas de usar node.js
 
 ## Uso
 
-Para uso personal para practicar sass.
+Para uso personal para practicar Sass.
 
 ## Licencia
 

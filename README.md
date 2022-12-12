@@ -9,14 +9,14 @@ You can also add some badges/states next to Project Name, e.g,
 - 🌱 Estoy aprendiendo HTML, CSS and js
 - 💞️ Me encanta el golf
 
-## Requirmientos
+## Requerimientos
 
 se requiere de conocimientos basicos de CSS, HTML ademas de usar node.js
 
 - [Node.js](https://nodejs.org/)
 - [Sass](https://sass-lang.com/)
 
-## Installacion y como empezar
+## Installación y como empezar
 
     npm install
     npm run start

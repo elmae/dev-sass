@@ -2,7 +2,6 @@
 
 Repositorio con mis primeros pasos para practicar SASS, junto a una plantilla de inicio, diseñada para este proyecto con la intencion de aprender.
 
-You can also add some badges/states next to Project Name, e.g,
 
 - 👋 Hola, soy @elmae
 - 👀 Me interesa el desarrollo web
@@ -18,9 +17,9 @@ se requiere de conocimientos basicos de CSS, HTML ademas de usar node.js
 
 ## Installación y como empezar
 
-    npm init
-    npm install
-    npm run start
+   - npm init
+   - npm install
+   - npm run start
 
 ## Uso
 

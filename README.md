@@ -19,6 +19,7 @@ se requiere de conocimientos basicos de CSS, HTML ademas de usar node.js
 ## Installación y como empezar
 
     npm init
+    npm install
     npm run start
 
 ## Uso
